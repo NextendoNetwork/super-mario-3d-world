@@ -1,0 +1,12 @@
+/server
+/server.exe
+*.exe
+*.log
+*.pem
+*.key
+.env
+go.work
+go.work.sum
+/data/
+/dist/
+/coverage.out
